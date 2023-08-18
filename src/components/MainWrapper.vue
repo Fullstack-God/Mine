@@ -16,7 +16,6 @@
       <img src="../assets/img/icons/edit.png" class="call-btn-img" alt="chat me">
     </MyButton>
     <div class="btns-wrapper"></div>
-
   </main>
 </template>
 
